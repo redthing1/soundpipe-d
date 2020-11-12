@@ -1,0 +1,7 @@
+name "soundpipe-d"
+description "dlang bindings to soundpipe"
+authors "xdrie"
+copyright "Copyright © 2020, xdrie"
+license "apache-2.0"
+targetType "library"
+libs "soundpipe"
