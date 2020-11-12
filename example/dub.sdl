@@ -1,0 +1,7 @@
+name "example"
+description "a minimal example"
+authors "xdrie"
+copyright "Copyright © 2020, xdrie"
+license "none"
+
+dependency "soundpipe-d" path=".."
