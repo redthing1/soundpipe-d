@@ -2435,7 +2435,7 @@ int sp_diskin_init (sp_data* sp, sp_diskin* p, const(char)* filename);
 int sp_diskin_compute (sp_data* sp, sp_diskin* p, float* in_, float* out_);
 
 alias fftw_real = double;
-enum rfftw_plan = fftw_plan;
+// enum rfftw_plan = fftw_plan;
 
 struct FFTFREQS
 {
